@@ -122,7 +122,7 @@ header h1 {
 .podcast {
     position: relative;
     top: 850px;
-    left: 100px;
+    right: 160px;
     font: 35px sans-serif;
     text-decoration: none;
     box-shadow: 0px 5px 0px #4927c5;
